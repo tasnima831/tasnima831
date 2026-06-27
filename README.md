@@ -1,5 +1,6 @@
 <img width="2000" height="600" alt="Beige Minimalist Graphic Designer LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/60a263d9-e955-43f7-a6d7-cbcddcc5ba23" />
-[![Profile Views](https://komarev.com/ghpvc/?username=tasnima831&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tasnima831)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tasnima831&label=Profile%20views&color=0e75b6&style=flat)
 
 # Hi 👋, I'm Tasnima Akther Tisha
 
