@@ -9,23 +9,16 @@ I'm a full-stack developer passionate about building web and mobile applications
 
 ## 🚀 Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Vue.js
-- Bootstrap
-- Tailwind CSS
+## 🛠️ Tech Stack
 
-### Backend
-- PHP
-- Laravel
-- REST API
-- MySQL
-
-### Mobile
-- Flutter
-- Dart
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=for-the-badge)
 
 ### Tools
 - Git
