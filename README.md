@@ -64,4 +64,3 @@ Project Marketplace Platform
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/tasnima-akther-tisha/
-- Email: shraboniakter554@gmail.com
