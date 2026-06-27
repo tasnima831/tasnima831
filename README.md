@@ -25,11 +25,6 @@ I'm a full-stack developer passionate about building web and mobile applications
 - Postman
 - Figma
 
-### Currently Learning
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-
 ---
 
 ## 📌 Featured Projects
