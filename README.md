@@ -46,6 +46,7 @@ Project Marketplace Platform
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnima831&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tasnima831&theme=tokyonight)
+[![naahe25](https://komarev.com/ghpvc/?username=tasnima831&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tasnima831)
 
 ---
 
