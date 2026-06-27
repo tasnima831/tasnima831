@@ -7,8 +7,6 @@ I'm a full-stack developer passionate about building web and mobile applications
 
 ---
 
-## 🚀 Tech Stack
-
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white)
